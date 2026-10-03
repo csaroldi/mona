@@ -1,0 +1,19 @@
+{
+  "name": "A Field Guide to Budapest",
+  "short_name": "Budapest",
+  "description": "A field guide by Claudio Saroldi.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0c10",
+  "theme_color": "#0c0c10",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
